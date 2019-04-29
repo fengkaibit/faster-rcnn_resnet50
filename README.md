@@ -1,5 +1,4 @@
 # faster-rcnn_resnet50
-Faster R-CNN use RoIAlign and ResNet50
 
 A implementation of Faster R-CNN with RoIAlign and ResNet50
 
